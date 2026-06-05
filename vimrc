@@ -1,0 +1,16 @@
+source ~/.vim/options.vim
+source ~/.vim/keybinds.vim
+source ~/.vim/plugins.vim
+source ~/.vim/colorfix.vim
+source ~/.vim/color.vim
+source ~/.vim/fzf.vim
+source ~/.vim/lsp.vim
+
+
+
+
+
+
+
+
+

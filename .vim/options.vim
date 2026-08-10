@@ -9,6 +9,7 @@ set tabstop=4
 set smartindent
 set showmatch
 set backspace=indent,eol,start
+set noswapfile
 
 syntax on
 

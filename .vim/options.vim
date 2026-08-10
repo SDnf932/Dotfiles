@@ -9,6 +9,8 @@ set tabstop=4
 set smartindent
 set showmatch
 set backspace=indent,eol,start
+
+" No swap file
 set noswapfile
 
 syntax on

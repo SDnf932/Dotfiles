@@ -10,6 +10,9 @@ set smartindent
 set showmatch
 set backspace=indent,eol,start
 
+" Show line numbers instead of tildes
+set fcs=eob:\ 
+
 " No swap file
 set noswapfile
 

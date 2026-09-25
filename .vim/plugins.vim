@@ -19,5 +19,6 @@ call s:ensure('junegunn/fzf')
 call s:ensure('junegunn/fzf.vim')
 call s:ensure('itchyny/lightline.vim')
 call s:ensure('tpope/vim-commentary')
+call s:ensure('jiangmiao/auto-pairs')
 "call s:ensure('yegappan/lsp')
 

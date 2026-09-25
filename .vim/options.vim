@@ -14,7 +14,7 @@ set backspace=indent,eol,start
 " Show line numbers instead of tildes
 set fcs=eob:\ 
 
-" No swap file
+" Sensible vim config
 set noswapfile
 
 syntax on
@@ -29,3 +29,8 @@ set splitbelow splitright
 
 " Remove the dealay when pressing Esc 
 set ttimeoutlen=50
+
+" View markdown files with glow 
+autocmd FileType markdown nnoremap <F4> :vertical terminal /usr/bin/glow %<CR> <C-w>=
+
+

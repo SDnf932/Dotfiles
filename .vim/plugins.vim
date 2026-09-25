@@ -15,9 +15,9 @@ function! s:ensure(repo)
 endfunction
 
 call s:ensure('catppuccin/vim')
-call s:ensure('morhetz/gruvbox')
 call s:ensure('junegunn/fzf')
 call s:ensure('junegunn/fzf.vim')
 call s:ensure('itchyny/lightline.vim')
-call s:ensure('yegappan/lsp')
+call s:ensure('tpope/vim-commentary')
+"call s:ensure('yegappan/lsp')
 

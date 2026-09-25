@@ -3,8 +3,6 @@ set background=dark
 set laststatus=2
 set noshowmode
 
-"let g:gruvbox_italic=1
-"let g:gruvbox_contrast_dark='hard'
 let g:lightline = {'colorscheme': 'catppuccin_frappe'}
 
 augroup CatppuccinFrappeManualFix
